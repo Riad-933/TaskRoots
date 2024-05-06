@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|c:\\users\\ca.r214.18\\desktop\\mvc\\firstapptask\\firstapptask\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F53E9DF-31BB-4A7B-B65A-8686B7A6B87C}|FirstAppTask\\FirstAppTask.csproj|solutionrelative:firstapptask\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\ContactUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\ContactUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\ContactUs\\Index.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\ContactUs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T15:12:21.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "FirstAppTask\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "FirstAppTask\\Controllers\\ContactUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:12:04.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T15:08:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "FirstAppTask\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "FirstAppTask\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:08:12.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\Service\\Index.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAFAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T14:56:30.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T14:30:24.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T14:23:50.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_HomeLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\Shared\\_HomeLayout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\Shared\\_HomeLayout.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwGgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T13:34:53.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T14:39:33.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "FirstAppTask\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "FirstAppTask\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:56:16.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T13:33:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Program.cs",
+              "RelativeDocumentMoniker": "FirstAppTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Program.cs",
+              "RelativeToolTip": "FirstAppTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:35:04.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstAppTask\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "FirstAppTask\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T13:34:11.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "FirstAppTask\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "FirstAppTask\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:32:38.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstAppTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstAppTask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:32:25.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

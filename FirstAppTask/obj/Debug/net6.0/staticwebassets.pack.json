@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\client.jpg",
+      "PackagePath": "staticwebassets\\images\\client.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\contact-img.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\fevicon.png",
+      "PackagePath": "staticwebassets\\images\\fevicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\s1.png",
+      "PackagePath": "staticwebassets\\images\\s1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\s2.png",
+      "PackagePath": "staticwebassets\\images\\s2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\s3.png",
+      "PackagePath": "staticwebassets\\images\\s3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\s4.png",
+      "PackagePath": "staticwebassets\\images\\s4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\s5.png",
+      "PackagePath": "staticwebassets\\images\\s5.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\s6.png",
+      "PackagePath": "staticwebassets\\images\\s6.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MVC\\FirstAppTask\\FirstAppTask\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FirstAppTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FirstAppTask.props",
+      "PackagePath": "build\\FirstAppTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FirstAppTask.props",
+      "PackagePath": "buildMultiTargeting\\FirstAppTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FirstAppTask.props",
+      "PackagePath": "buildTransitive\\FirstAppTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
